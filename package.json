@@ -27,5 +27,8 @@
   "license": "MIT",
   "dependencies": {
     "sharp": "^0.34.5"
+  },
+  "allowScripts": {
+    "sharp@0.34.5": true
   }
 }
