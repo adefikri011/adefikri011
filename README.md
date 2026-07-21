@@ -58,9 +58,11 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 
 <h2 align="center">📈 Contribution Graph</h2>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adefikri011&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ---
 
