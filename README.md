@@ -99,17 +99,36 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 
 <h2 align="center">🔥 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/HeryKurniawan123/webpkl">
-    <img src="https://opengraph.githubassets.com/1/HeryKurniawan123/webpkl" width="32%" />
-  </a>
-  <a href="https://github.com/adefikri011/adobe-tracker">
-    <img src="https://opengraph.githubassets.com/1/adefikri011/adobe-tracker" width="32%" />
-  </a>
-  <a href="https://github.com/adefikri011/portofolio">
-    <img src="https://opengraph.githubassets.com/1/adefikri011/portofolio" width="32%" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📘 Attendance System  
+Full‑Stack Web Application  
+[View Repository](https://github.com/HeryKurniawan123/webpkl)
+
+</td>
+<td width="50%">
+
+### 💰 Finance Manager  
+Finance & Data Transparency  
+[View Repository](https://github.com/adefikri011/adobe-tracker)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Portfolio Site  
+Personal Portfolio Platform  
+[View Repository](https://github.com/adefikri011/portofolio)
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
