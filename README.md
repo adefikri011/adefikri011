@@ -97,25 +97,6 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 
 ---
 
-<h3 align="center">🐍 Arcade Mode — Snake</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/output/github-contribution-grid-snake.svg">
-    <img 
-      src="https://raw.githubusercontent.com/adefikri011/adefikri011/output/github-contribution-grid-snake.svg"
-      width="95%"
-      alt="Snake Contribution Animation">
-  </picture>
-</p>
-
----
-
----
-
 <h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
