@@ -56,13 +56,18 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+<<h2 align="center">🎮 Contribution Arcade</h2>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+    <img alt="bomberman contribution graph" 
+      src="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  </picture>
+</p>
 
 ---
 
