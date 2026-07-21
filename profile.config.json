@@ -1,67 +1,81 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Ade Fikri A.A",
+    "username": "adefikri011",
+    "headline": "Fullstack Web Developer",
+    "affiliation": "Freelance | Core Team at MasyirTech",
+    "location": "Ciamis, Indonesia",
+    "status": "Building & Shipping Web Applications",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Engineering robust full-stack web solutions with clean architecture, seamless API integration, and high performance.",
+      "Focused on scalable systems, optimized databases, and maintainable production-ready code."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full-Stack Web Systems",
+    "direction": "Scalable Software Architecture",
+    "themes": "Architecture / APIs / Performance",
+    "narrative": "Designing scalable full-stack systems with high code integrity, optimized data structures, and production-grade reliability."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Full-Stack Engineering",
+      "description": "Building end-to-end web applications with robust backend architecture and responsive interfaces."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "System Architecture",
+      "description": "Designing scalable and maintainable software foundations built for performance."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Database Optimization",
+      "description": "Optimizing queries, indexing, and schemas for high-concurrency workloads."
+    },
+    {
+      "name": "Web APIs",
+      "description": "Engineering secure RESTful APIs for efficient client-server communication."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Attendance System",
+      "url": "https://github.com/HeryKurniawan123/webpkl.git",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Full-Stack Web Application",
+      "summary": "Automates attendance tracking and activity logging to improve administrative efficiency and data accuracy.",
+      "heroLabel": "Production App"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Finance Manager",
+      "url": "https://github.com/adefikri011/adobe-tracker.git",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Finance & Data Transparency",
+      "summary": "A digital ledger application for managing income and expenses with improved reporting transparency.",
+      "heroLabel": "Financial Dashboard"
+    },
+    {
+      "name": "Portfolio Site",
+      "url": "https://github.com/adefikri011/portofolio.git",
+      "homepage": "",
+      "focus": "Personal Portfolio Platform",
+      "summary": "A high-performance portfolio platform showcasing projects and technical expertise.",
+      "heroLabel": "Portfolio Site"
     }
   ],
   "techStack": [
+    "JavaScript",
     "TypeScript",
     "Next.js",
-    "Python",
+    "React",
+    "Tailwind CSS",
     "PostgreSQL",
-    "Playwright"
+    "Prisma"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "adefikri011",
+      "url": "https://github.com/adefikri011",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +87,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building scalable web systems and delivering impactful digital solutions."
 }
