@@ -12,6 +12,8 @@
 <p align="center">
   <a href="https://github.com/adefikri011"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-adefikri011-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -33,8 +35,8 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 <h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
-🔹 Scalable Web Architectures <br/>
-🔹 High Performance APIs <br/>
+ Scalable Web Architectures <br/>
+ High Performance APIs <br/>
 🔹 Database Optimization <br/>
 🔹 Clean & Maintainable Code
 </p>
@@ -54,6 +56,14 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 
 ---
 
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adefikri011&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
 <h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
@@ -62,6 +72,9 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 </a>
 <a href="https://github.com/adefikri011/adobe-tracker.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adefikri011&repo=adobe-tracker&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/adefikri011/portofolio.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adefikri011&repo=portofolio&theme=tokyonight&hide_border=true"/>
 </a>
 </p>
 
