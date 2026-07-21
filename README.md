@@ -100,15 +100,15 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 <h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
-<a href="https://github.com/HeryKurniawan123/webpkl.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HeryKurniawan123&repo=webpkl&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/adefikri011/adobe-tracker.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adefikri011&repo=adobe-tracker&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/adefikri011/portofolio.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adefikri011&repo=portofolio&theme=tokyonight&hide_border=true"/>
-</a>
+  <a href="https://github.com/HeryKurniawan123/webpkl">
+    <img src="https://opengraph.githubassets.com/1/HeryKurniawan123/webpkl" width="32%" />
+  </a>
+  <a href="https://github.com/adefikri011/adobe-tracker">
+    <img src="https://opengraph.githubassets.com/1/adefikri011/adobe-tracker" width="32%" />
+  </a>
+  <a href="https://github.com/adefikri011/portofolio">
+    <img src="https://opengraph.githubassets.com/1/adefikri011/portofolio" width="32%" />
+  </a>
 </p>
 
 ---
