@@ -56,18 +56,63 @@ Focused on scalable systems, optimized databases, and maintainable production-re
 
 ---
 
-<<h2 align="center">🎮 Contribution Arcade</h2>
+<h2 align="center">📈 Contribution Intelligence</h2>
+
+<p align="center">
+  <a href="https://github.com/adefikri011?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/2026-View_Contributions-1f6feb?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/adefikri011?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/2025-View_Contributions-238636?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/adefikri011?tab=overview&from=2024-01-01&to=2024-12-31">
+    <img src="https://img.shields.io/badge/2024-View_Contributions-0e4429?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 Activity Graph</h3>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adefikri011&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<h3 align="center">🎮 Arcade Mode — Bomberman</h3>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-    <img alt="bomberman contribution graph" 
-      src="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg">
+    <img 
+      src="https://raw.githubusercontent.com/adefikri011/adefikri011/pacman-output/bomberman-contribution-graph.svg"
+      width="95%"
+      alt="Bomberman Contribution Graph">
   </picture>
 </p>
+
+---
+
+<h3 align="center">🐍 Arcade Mode — Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/adefikri011/adefikri011/output/github-contribution-grid-snake.svg">
+    <img 
+      src="https://raw.githubusercontent.com/adefikri011/adefikri011/output/github-contribution-grid-snake.svg"
+      width="95%"
+      alt="Snake Contribution Animation">
+  </picture>
+</p>
+
+---
 
 ---
 
